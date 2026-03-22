@@ -6,7 +6,7 @@ text = input("Enter a string: ")
 length = len(text)
 print("Length of the string is:", length)
 
-# 2. Count characters manually
+# 2. Count characters in string
 
 text = input("Enter a string: ")
 count = 0
@@ -59,7 +59,7 @@ b = input("Enter second word: ")
 result = a + " " + b
 print("Combined:", result)
 
-# 7. Name and age paragraph
+# 7. Concatenate age and name
 
 name = input("Enter your name: ")
 age = input("Enter your age: ")
